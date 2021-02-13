@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996958021874",
+    "project_id": "mchats-929a4",
+    "storage_bucket": "mchats-929a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996958021874:android:55a257b7b24f93a931886b",
+        "android_client_info": {
+          "package_name": "com.example.mChats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996958021874-gljosig7glc5pj4137mc451u2i1c61il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mChats",
+            "certificate_hash": "556462e93085b5697fec8ad7b6591618e0e976f9"
+          }
+        },
+        {
+          "client_id": "996958021874-dtacj970cldom6i3f9jqjrpb2rrbole1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArMvwQkvbXcBP2lerN-PXFn2OnbbLvqeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996958021874-dtacj970cldom6i3f9jqjrpb2rrbole1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
