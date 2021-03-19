@@ -1,16 +1,27 @@
-# mChats
+# `MChats ` 🥂
 
-A new Flutter project.
+## Features
+> Realtime Chat View
+> Modern UI
+> Only Message
+> 24/7
+> No Notification
+> No message Delete Function
+> No Blocking Feature
+> No Group Chat Function 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div class="image-gallery">
+<img src="https://live.staticflickr.com/65535/51052374211_a9548a237a_o.png" width="259.2" height="547.2""/>
+<img src="https://live.staticflickr.com/65535/51052664931_18c7a59a86_o.png" width="259.2" height="547.2""/>
+<img src="https://live.staticflickr.com/65535/51052466222_6b50e86819_o.png" width="259.2" height="547.2""/>
+<img src=https://live.staticflickr.com/65535/51051941143_eff2d7a691_o.png" width="259.2" height="547.2""/>
+<img src=https://live.staticflickr.com/65535/51051934638_cef4b34c84_o.png" width="259.2" height="547.2""/>
+<img src=https://live.staticflickr.com/65535/51051935023_d1f231cded_o.png" width="259.2" height="547.2""/>
+<img src=https://live.staticflickr.com/65535/51052747302_51a56dcc0e_o.png" width="259.2" height="547.2""/>
+<img src=https://live.staticflickr.com/65535/51052664681_08b5e003a7_o.png" width="259.2" height="547.2""/>
+<img src=https://live.staticflickr.com/65535/51052664541_e83ec893d0_o.png" width="259.2" height="547.2""/>
+<div class="clear"></div>
+</div>
